@@ -1,4 +1,4 @@
 squint
 ======
 
-A versatile programmer's color scheme for sublime text / textmate.
+A simple set of programming-inspired color schemes for sublime text / textmate.
